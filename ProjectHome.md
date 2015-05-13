@@ -1,0 +1,2 @@
+The BIRT Viewer that come with Eclipse BIRT Viewer has a basic appearance. This appearance makes BIRT Viewer not too friendly for some users. Other things that motivate me to develop this project is because BIRT Viewer has a limitation to show datetime parameter field.
+ExtJS as one of well known AJAX framework today has many high performance customizable UI widgets. It has well designed and extensible component model. Thats why I choose this framework to create new BIRT Viewer appearance.
